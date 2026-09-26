@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Monogramme KA</title>
+  <rect width="64" height="64" rx="6" fill="#76b900"/>
+  <path d="M12 12h8v16l14-16h10L27.5 30.4 45 52H34.7L22 35.9l-2 2.2V52h-8V12Z" fill="#090a0b"/>
+  <path d="M45.5 14 55 52h-7.7l-1.8-8h-9.2l2.3-7h5.3l-2.7-11.8L45.5 14Z" fill="#090a0b" opacity=".82"/>
+</svg>
