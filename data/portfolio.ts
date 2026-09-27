@@ -11,7 +11,7 @@ export const portfolio = {
   profile: {
     fullName: "Korota Arsène Coulibaly",
     initials: "KAC",
-    professionalTitle: "Docteur-ingénieur en systèmes embarqués & vision intelligente",
+    professionalTitle: "Ingénieur en systèmes embarqués & vision intelligente",
     tagline: "Je conçois et déploie des solutions d’IA embarquée, de vision industrielle et de systèmes cyber-physiques — du microcontrôleur au Jetson, de l’Edge au Cloud.",
     shortBio: "Ingénieur en systèmes embarqués et vision robotique avec plus de quatre ans d’expérience en firmware bas niveau, architecture logicielle, Edge AI et validation système.",
     longBio: "Mon parcours se situe à l’intersection de l’électronique embarquée, de l’intelligence artificielle et des systèmes industriels. Je transforme des modèles de recherche en solutions exécutables sur des plateformes contraintes, puis je les intègre dans des architectures communicantes, testables et maintenables. Mon approche associe rigueur d’ingénierie, expérimentation scientifique et transmission pédagogique.",
@@ -20,7 +20,7 @@ export const portfolio = {
     profilePhoto: "/images/profile/engineer-portrait.webp",
     profilePhotoAlt: "Portrait professionnel de Korota Arsène Coulibaly en veste bleu marine dans un laboratoire d’électronique",
     logo: "/images/brand/monogram.svg",
-    availability: "Ouvert aux collaborations industrielles, scientifiques et pédagogiques",
+    availability: "Ouvert aux collaborations",
     expertise: ["Systèmes embarqués", "Vision industrielle", "Edge AI", "Digital Twins & MAS"],
     languages: ["Français — courant", "Anglais — professionnel"],
     socialLinks: [
